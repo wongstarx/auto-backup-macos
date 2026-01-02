@@ -36,7 +36,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "auto-backup-macos=auto_backup.cli:main",
+            "autobackup=auto_backup.cli:main",
         ],
     },
     keywords="backup, macos, automation, cloud-upload",
